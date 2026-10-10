@@ -1,0 +1,8 @@
+{
+  "name": "AGROEYE",
+  "description": "AI-powered smart agriculture assistant for farmers, featuring disease detection, crop recommendation, and yield estimation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
